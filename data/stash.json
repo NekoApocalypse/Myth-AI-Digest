@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Claude Sonnet 4.6",
+    "url": "https://anthropic.com",
+    "points": 820,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Frontier model upgrade focused on agentic coding."
+  },
+  {
+    "id": "3",
+    "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+    "url": "https://github.com/zaneham/barracuda",
+    "points": 126,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Open-source CUDA compiler for AMD, written in C99."
+  },
+  {
+    "id": "38",
+    "title": "Sub-Millisecond RAG on Apple Silicon (Wax)",
+    "url": "https://github.com/christopherkarani/Wax",
+    "points": 83,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Serverless, single-file RAG engine for Apple Silicon."
+  },
+  {
+    "id": "28",
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "url": "https://mage-bench.com",
+    "points": 90,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Complex reasoning benchmark using MTG."
+  },
+  {
+    "id": "30",
+    "title": "Launch HN: Sonarly (YC W26)",
+    "url": "https://sonarly.com",
+    "points": 25,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "AI agent for triaging and fixing production alerts."
+  },
+  {
+    "id": "57",
+    "title": "An AI Agent Published a Hit Piece on Me",
+    "url": "https://theshamblog.com",
+    "points": 90,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Example of weaponized automated content."
+  },
+  {
+    "id": "36",
+    "title": "Run LLMs locally in Flutter",
+    "url": "https://github.com/ramanujammv1988/edge-veda",
+    "points": 31,
+    "firstSeen": "2026-02-18T01:00:00Z",
+    "status": "published",
+    "summary": "Local inference wrapper for Flutter/mobile devs."
+  }
+]
