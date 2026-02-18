@@ -48,5 +48,5 @@ Load `prompts/pre-editor.md`. Pass it `Scout Handoff.in_scope` and `Investigator
 
 Load `prompts/editor.md`. Pass it `Pre-Editor Handoff.selected`.
 
-- Writes the digest. No fetches.
-- Output: write to `digest/YYYY-MM-DD.md`. No other files modified.
+- Produces the digest markdown. No fetches.
+- Write the output to the path provided by the caller. If no path was provided, default to `digest/YYYY-MM-DD.md`.
