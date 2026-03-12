@@ -50,3 +50,9 @@ Load `prompts/editor.md`. Pass it `Pre-Editor Handoff.selected`.
 
 - Produces the digest markdown. No fetches.
 - Write the output to the path provided by the caller. If no path was provided, default to `digest/YYYY-MM-DD.md`.
+
+---
+
+## Final Step — Delivery
+
+After writing the file, **output the full digest text as your reply**. Do not summarize it. Do not output the file path. Output the complete markdown content of the digest exactly as written. This is what gets delivered to the channel.
