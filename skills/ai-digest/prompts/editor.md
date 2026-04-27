@@ -43,4 +43,5 @@ You receive this JSON from the Pre-Editor:
 - Do not explain basic concepts. Operator knows what an LLM is.
 - Focus on implication: "enables local agents" > "new model released".
 - Do not invent information not present in the summaries.
+- Wrap all URLs in angle brackets (e.g., `<https://example.com>`) to suppress Discord preview cards.
 - Output only the digest markdown. No preamble, no closing remarks.
